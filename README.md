@@ -12,6 +12,15 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Improvement for Part1
+=================
+- Change background image
+- Resize image
+- Update titles' and paragraphs's font
+- Centralize text
+- Uniform text layout, like line space and line indent
+- Style table of content
+
 License/Copyright
 =================
 
