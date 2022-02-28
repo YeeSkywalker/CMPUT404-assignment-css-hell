@@ -1,0 +1,110 @@
+body { 
+    background-color: #3d3e42;
+}
+
+header {
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 10%;
+}
+
+.divContainer {
+    margin: 2em auto 2em;
+}
+
+h2 {
+    font-weight: bolder;
+    font-size: 200%;
+    text-align: center;
+}
+
+h3 {
+    font-family: fantasy;
+}
+
+.skill-grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.skill-grid-item {
+    text-align: center;
+}
+
+hr {
+    border-top: 1px solid bisque;
+    margin-top: 2em; 
+    margin-bottom: 2em;
+    width: 70%;
+}
+
+.sub {
+    width: 85% !important;
+}
+
+p {
+    font-family: 'Lucida Console', monospace;
+    text-align: center;
+    color: #fff;
+    line-height: 2rem;
+    margin: 5% 0 5%;
+}
+
+.experience {
+    font-size: 150% !important;  
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+.grid-item-left {
+    margin-left: 20%;
+    margin-right: 5%;
+}
+
+.grid-item-right {
+    margin-right: 30%;
+}
+
+.avatar {
+    display: block;
+    border-radius: 100%;
+    width: 10%;
+    margin: 5rem auto 0.5rem;
+}
+
+.avator-container {
+    display: flex;
+    justify-content: center;
+}
+
+.first-name {
+    padding-right: 0.5%;
+    color: beige;
+    font-family: fantasy;
+}
+
+.last-name {
+    color: beige;
+    padding-left: 0.5%;
+    font-family: fantasy;
+}
+
+.email {
+    color: beige;
+    font-family: 'Gill Sans', sans-serif;
+}
+
+.title {
+    color: rosybrown;
+    font-family: 'Gill Sans', sans-serif;
+}
